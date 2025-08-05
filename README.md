@@ -59,10 +59,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=asura0666&theme=darkhub" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asura0666&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asura0666&layout=compact&theme=tokyonight" height="180px" />
-</p>
+<div align="center">
+  <div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Asura0666&show_icons=true&theme=tokyonight" height="180px" />
+  </div>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <div style="display: inline-block; margin-left: 15px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asura0666&layout=compact&theme=tokyonight" height="180px" />
+  </div>
+</div>
 
 ---
 
